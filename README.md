@@ -10,6 +10,7 @@
 
 # Hot Dev
 
+[![SafeSkill 79/100](https://img.shields.io/badge/SafeSkill-79%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/hot-dev-hot)
 Hot Dev is an open source platform for backend workflows — events, schedules,
 AI agents, MCP tools, long-running tasks, and service orchestration — with
 built-in execution tracing, a local dev runtime, and one-command deploys.
